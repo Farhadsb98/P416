@@ -1,0 +1,15 @@
+C:\Users\farha\source\repos\Kesr\Kesr\bin\Debug\net6.0\Kesr.exe
+C:\Users\farha\source\repos\Kesr\Kesr\bin\Debug\net6.0\Kesr.deps.json
+C:\Users\farha\source\repos\Kesr\Kesr\bin\Debug\net6.0\Kesr.runtimeconfig.json
+C:\Users\farha\source\repos\Kesr\Kesr\bin\Debug\net6.0\Kesr.dll
+C:\Users\farha\source\repos\Kesr\Kesr\bin\Debug\net6.0\Kesr.pdb
+C:\Users\farha\source\repos\Kesr\Kesr\obj\Debug\net6.0\Kesr.csproj.AssemblyReference.cache
+C:\Users\farha\source\repos\Kesr\Kesr\obj\Debug\net6.0\Kesr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farha\source\repos\Kesr\Kesr\obj\Debug\net6.0\Kesr.AssemblyInfoInputs.cache
+C:\Users\farha\source\repos\Kesr\Kesr\obj\Debug\net6.0\Kesr.AssemblyInfo.cs
+C:\Users\farha\source\repos\Kesr\Kesr\obj\Debug\net6.0\Kesr.csproj.CoreCompileInputs.cache
+C:\Users\farha\source\repos\Kesr\Kesr\obj\Debug\net6.0\Kesr.dll
+C:\Users\farha\source\repos\Kesr\Kesr\obj\Debug\net6.0\refint\Kesr.dll
+C:\Users\farha\source\repos\Kesr\Kesr\obj\Debug\net6.0\Kesr.pdb
+C:\Users\farha\source\repos\Kesr\Kesr\obj\Debug\net6.0\Kesr.genruntimeconfig.cache
+C:\Users\farha\source\repos\Kesr\Kesr\obj\Debug\net6.0\ref\Kesr.dll
